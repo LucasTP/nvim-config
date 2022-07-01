@@ -1,0 +1,18 @@
+{
+  "coc.preferences.formatOnSaveFiletypes": [
+    "css",
+    "markdown",
+    "javascript",
+    "typescript",
+    "less",
+    "scss",
+    "json",
+    "html",
+    "typescriptreact",
+    "javascriptreact"
+  ],
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "all",
+  "prettier.endOfLine": "lf",
+  "javascript.suggestionActions.enabled": false
+}
